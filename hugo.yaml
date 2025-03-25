@@ -4,7 +4,7 @@ title: My Site
 # import hextra as module
 module:
   imports:
-  - path: https://codeshob.me/
+  - path: github.com/tanzimul3islam/codeshob
 
 markup:
   # allow raw html
