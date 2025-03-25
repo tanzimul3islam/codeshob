@@ -4,7 +4,7 @@ title: My Site
 # import hextra as module
 module:
   imports:
-  - path: https://tanzimul3islam.github.io/codeshob/
+  - path: https://codeshob.me/
 
 markup:
   # allow raw html
@@ -25,7 +25,7 @@ menu:
       pageRef: /about
       weight: 2
     - name: Contact ↗
-      url: "https://tanzimul3islam.github.io/codeshob/"
+      url: "https://codeshob.me/"
       weight: 3
     - name: Search
       weight: 4
@@ -33,7 +33,7 @@ menu:
         type: search
     - name: GitHub
       weight: 5
-      url: "https://tanzimul3islam.github.io/codeshob/"
+      url: "https://codeshob.me/"
       params:
         icon: github
     - name: Twitter
@@ -53,4 +53,4 @@ params:
 
   editURL:
     enable: true
-    base: "https://tanzimul3islam.github.io/codeshob/"
+    base: "https://codeshob.me/"
